@@ -1,4 +1,8 @@
 _repo: Wallensteins-Tod_6549
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6549#Wallensteins-Tod
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
